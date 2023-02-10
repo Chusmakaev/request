@@ -29,4 +29,4 @@ def heroes():
 
     print(f"Самый умный {name}, интелект: {intelligence_super_man}")
 
-heroes()
+pprint(heroes())
